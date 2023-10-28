@@ -1,0 +1,1 @@
+<a href="{{ route('admin.user.show.role', $user->slug) }}" class="btn btn-success btn-sm">Show / Change Role</a>
